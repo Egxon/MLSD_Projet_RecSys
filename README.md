@@ -52,3 +52,6 @@ Les performances sont évaluées en recommandation top‑N avec :
 - Sur la variante **Ultra**, la configuration hybride **Qwen** améliore simultanément NDCG@10, Precision@10 et Recall@10, montrant l’intérêt de descriptions textuelles plus riches.
 
   ![Description de l'image](resRecSys.PNG)
+
+
+  PS: La visualisation de notre notebook ne marche pas, il faut impérativement le télécharger ! 
